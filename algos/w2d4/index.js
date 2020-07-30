@@ -28,3 +28,4 @@ console.log(sort([1,2,3,4,5,6,7,8]))
 
 
 // 1. add files to staging area
+// 2. commit files
