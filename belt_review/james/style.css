@@ -1,0 +1,34 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  width: 970px;
+  min-height: 400px;
+  margin: auto;
+  border: solid grey 1px;
+}
+
+.left-main {
+  border: solid red 1px;
+  width: 650px;
+  height: 400px;
+}
+
+.top-left,
+.col-header,
+.main-content,
+.right-main {
+  display: flex;
+}
+
+.top-left-col {
+  height: 200px;
+  width: 220px;
+  border: solid orange 1px;
+}
+.right-main img {
+  width: 200px;
+  height: 300px;
+}

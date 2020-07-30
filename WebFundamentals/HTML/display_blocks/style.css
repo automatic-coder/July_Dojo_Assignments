@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 600px;
+    min-height: 400px;
+    background-color: #D5D2AE;
+    margin: auto;
+    padding: 20px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-bottom: 15px;
+}
+
+.header img{
+    width: 75px;
+    height: 45px;
+    background-color: white;
+}
+
+.main img {
+    width: 85px;
+    background-color: white;
+    border: #81B4EE solid 10px;
+    margin-bottom: -4px;
+}
+.row div{
+    border: black 3px solid;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.row .even {
+    background-color: #F36870;
+    border: #F36870 solid 10px;
+}

@@ -1,0 +1,26 @@
+
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
+.parent{
+    border: solid black 1px;
+    padding: 30px;
+    
+}
+
+.box1{
+    /* height: 40px; */
+    display: inline-block;
+    /* vertical-align: middle; */
+}
+.box2{
+    display: inline-block;
+    /* vertical-align: middle; */
+}
+.box3{
+    display: inline-block;
+    /* vertical-align: middle; */
+    /* height:90px; */
+}

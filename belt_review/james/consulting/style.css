@@ -1,0 +1,187 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container{
+    width: 970px;
+    min-height: 400px;
+    background-color: rgb(1, 5, 46);
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.right-nav{
+    display: flex;
+    margin: 20px;
+    padding: 5px;
+}
+
+.left-nav{
+    margin: 10px;
+    display: flex;
+    padding: 10px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.James{
+    color: rgb(245, 243, 243);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 10px;
+}
+
+.Consulting{
+    color: rgb(32, 117, 187);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.home{
+    color: rgb(32, 117, 187);
+    padding-top: 10px;
+}
+
+.nav{
+    color: rgb(245, 243, 243);
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.inside-container{
+    background-color: white;
+    height: 980px;
+    width: 950px;
+}
+
+#main_img {
+    padding: 20px;
+    width: 910px;
+}
+
+.subcontent{
+    background-color: white;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.subcontent p{
+    color: rgb(245, 243, 243);
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.subcontent img{
+    float: left;
+    margin: 10px;
+}
+
+
+
+h3{
+    color: rgb(245, 243, 243);
+    display: flex;
+    margin: 10px;
+}
+
+
+#clients img{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(245, 243, 243);
+}
+
+#projects img{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(245, 243, 243);
+}
+
+#services img{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(245, 243, 243);
+}
+
+#services{
+    background: rgb(57, 141, 219);
+    margin-right: 20px;
+}
+
+#projects{
+    background: rgb(57, 141, 219);
+    margin-right: 20px;
+}
+
+#clients{
+    background: rgb(57, 141, 219);
+}
+
+
+.more_info {
+    background-color: rgb(57, 141, 219);
+    color: rgb(245, 243, 243);
+    height: 40px;
+    width: 100px;
+    margin: 10px;
+}
+
+.lower_subcontent {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+h4{
+    padding-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+h5{   
+    padding-bottom: 20px;
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+#lower_subcontent_middle p{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#lower_subcontent_middle a{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#lower_subcontent_right{
+    margin-bottom: 20px;
+}
+
+.lower_subcontent img{
+    width: 635px;
+    height: 200px;
+}
+
+#footer{
+    background-color: rgb(180, 212, 224);
+    display: flex;
+    justify-content: center;
+}
+
+#footer p{
+    color: rgb(148, 193, 209);
+    margin: 13px;
+}
+
+#footer h6{
+    color: rgb(58, 118, 197);
+    margin: 15px;
+}

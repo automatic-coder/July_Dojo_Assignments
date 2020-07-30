@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta&display=swap');
+
+.container{
+    width:1100px;
+    min-height: 400px;
+    border: solid red 1px;
+    margin: auto;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.inner{
+    height: 100px;
+    width: 100px;
+    border: solid blue 1px;
+}
+
+.parent{
+    display: flex;
+    border: solid orange 1px;
+}
